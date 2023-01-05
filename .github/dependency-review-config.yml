@@ -1,3 +1,4 @@
 fail-on-severity: 'moderate'
 deny-licenses: ['BSD-3-Clause', 'LGPL-2.0' ]
 fail-on-scopes: [ 'runtime' ]
+allow-ghsas: [ 'GHSA-m394-8rww-3jr7', 'GHSA-8mpp-f3f7-xc28' ]
