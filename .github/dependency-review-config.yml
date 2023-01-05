@@ -1,0 +1,3 @@
+fail-on-severity: 'moderate'
+deny-licenses: ['BSD-3-Clause', 'LGPL-2.0' ]
+fail-on-scopes: [ 'runtime' ]
